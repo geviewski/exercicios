@@ -1,5 +1,6 @@
 body{
-    background: grey;
+    background: rgb(228, 88, 88);
+    margin: 0px;
 }
 
 .foto {
@@ -15,9 +16,8 @@ body{
 .titulo_de_postagem {
     font-size: 16px;
     font-style: italic;
-    margin: 0px;
-    margin-left: 650px;
-    margin-bottom: 0;
+    margin: 0;
+    margin-left: 415px;
 }
 
 .post {
@@ -25,7 +25,8 @@ body{
     padding: 5px;
     border: 3px solid black;
     margin: 0;
-    margin-right: 600px;
+    margin-right: 339px;
+    margin-left: 331px;
     float: left;
 }
 
